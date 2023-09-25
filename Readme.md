@@ -30,14 +30,14 @@ python3 main.py
 
 示例：
 
-![2023-09-25-22-19-52.png](images\2023-09-25-22-19-52.png)
+![2023-09-25-22-19-52.png](https://github.com/LY613313/SEO-search/blob/main/images/2023-09-25-22-19-52.png)
 
 运行完成后要输入你要保存的文件名，注意是要.xlsx后缀（此脚本保存格式为excel文件）
 
-![2023-09-25-22-20-34.png](images\2023-09-25-22-20-34.png)
+![2023-09-25-22-20-34.png](https://github.com/LY613313/SEO-search/blob/main/images/2023-09-25-22-20-34.png)
 
 运行完成后的结果保存在result的文件夹内，如下：
 
-![2023-09-25-22-21-00.png](images\2023-09-25-22-21-00.png)
+![2023-09-25-22-21-00.png](https://github.com/LY613313/SEO-search/blob/main/images/2023-09-25-22-21-00.png)
 
 注：本人菜鸡一只，此脚本是自己没事写着玩，没什么大用处。如果存在什么不足，还请各位大佬指正。
